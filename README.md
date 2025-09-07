@@ -29,6 +29,8 @@
 
 ● **Usage Benefits**: No usage limits after in-app purchase; free version gets access via watching ads
 
+https://apps.apple.com/us/app/text-search-replace-notes/id1099846720
+
 ### 【简体中文】
 
 #### 主标题：文本搜索替换 备忘录 + 粘贴板
@@ -50,6 +52,8 @@
 ● **跨端体验**：历史输入缓存，适配 iPhone、iPad、Mac
 
 ● **使用权益**：内购解锁后无次数限制；免费版可通过观看广告获取使用次数
+
+https://apps.apple.com/us/app/text-search-replace-notes/id1099846720
 
 ### 【繁体中文】
 
@@ -73,6 +77,7 @@
 
 ● **使用權益**：內購解鎖後無次數限制；免費版可透過觀看廣告取得使用次數
 
+https://apps.apple.com/us/app/text-search-replace-notes/id1099846720
 
 ### 【日文】
 
