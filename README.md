@@ -95,3 +95,5 @@
 ● **クロスデバイス体験**：履歴入力キャッシュ，iPhone、iPad、Mac に適応
 
 ● **使用権益**：アプリ内課金で解錠後、使用回数制限なし；無料版は広告視聴で使用回数を取得可
+
+https://apps.apple.com/us/app/text-search-replace-notes/id1099846720
