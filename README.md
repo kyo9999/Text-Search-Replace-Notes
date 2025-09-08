@@ -29,6 +29,7 @@
 
 ● **Usage Benefits**: No usage limits after in-app purchase; free version gets access via watching ads
 
+👇 Download now:
 https://apps.apple.com/us/app/text-search-replace-notes/id1099846720
 
 ### 【简体中文】
@@ -53,6 +54,7 @@ https://apps.apple.com/us/app/text-search-replace-notes/id1099846720
 
 ● **使用权益**：内购解锁后无次数限制；免费版可通过观看广告获取使用次数
 
+👇 立即下载：
 https://apps.apple.com/us/app/text-search-replace-notes/id1099846720
 
 ### 【繁体中文】
@@ -77,6 +79,7 @@ https://apps.apple.com/us/app/text-search-replace-notes/id1099846720
 
 ● **使用權益**：內購解鎖後無次數限制；免費版可透過觀看廣告取得使用次數
 
+👇 立即下載：
 https://apps.apple.com/us/app/text-search-replace-notes/id1099846720
 
 ### 【日文】
@@ -101,4 +104,5 @@ https://apps.apple.com/us/app/text-search-replace-notes/id1099846720
 
 ● **使用権益**：アプリ内課金で解錠後、使用回数制限なし；無料版は広告視聴で使用回数を取得可
 
+👇 今すぐダウンロード：
 https://apps.apple.com/us/app/text-search-replace-notes/id1099846720
