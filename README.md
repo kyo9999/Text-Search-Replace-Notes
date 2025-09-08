@@ -1,4 +1,5 @@
 
+Vedio： [https://youtube.com/shorts/G5-hOoBQtkU?feature=share](https://youtube.com/shorts/G5-hOoBQtkU?feature=share)
 
 <img width="1320" height="2868" alt="备忘录插件" src="https://github.com/user-attachments/assets/95acdcfd-0590-4d43-a4b0-e650d5864572" />
 
